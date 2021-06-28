@@ -36,7 +36,7 @@ These are the basic instructions to build Arch on WSL 2.
 
 6. Uncomment some servers in the pacman mirrorlist.
 
-    `vim etc/pacman.d/mirrorlist`
+    `vim /etc/pacman.d/mirrorlist`
 
 7. Recompress files in `root.x86_64` directory.
 
